@@ -22,4 +22,4 @@ Jeśli Supabase nie jest jeszcze skonfigurowany, strona nadal działa lokalnie i
 
 ## Publikacja
 
-Repozytorium używa GitHub Pages z gałęzi `main` i katalogu `/ (root)`. Adres strony: `https://felipepeu.github.io/dla-izy/`.
+Repozytorium `dla-marcelinki` używa GitHub Pages z gałęzi `main` i katalogu `/ (root)`. Adres strony: `https://felipepeu.github.io/dla-marcelinki/`.
