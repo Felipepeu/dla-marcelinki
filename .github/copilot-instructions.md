@@ -1,6 +1,6 @@
 # Wskazówki projektu
 
-- To statyczna strona dla Izy zrobiona w HTML, CSS i JavaScript; klient Supabase jest ładowany z CDN.
+- To statyczna strona dla Marceliny zrobiona w HTML, CSS i JavaScript; klient Supabase jest ładowany z CDN.
 - Zachowuj polski język strony (`lang="pl"`) i responsywność na telefonach.
 - Publikacja docelowa: GitHub Pages z głównej gałęzi i katalogu `/`.
 - Treści osobiste dopasowuj wyłącznie do informacji podanych przez Filipa.
